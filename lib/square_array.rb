@@ -5,6 +5,6 @@ while array[counter] do
   new_square.push(array[counter] * array[counter])
   counter += 1
 end
-  
+ new_square 
   
 end
